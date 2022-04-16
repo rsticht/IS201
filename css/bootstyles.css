@@ -1,0 +1,42 @@
+.russfuntext{
+    text-align: center;
+}
+
+.russtextcolor a{
+    color:black
+}
+
+.russbold{
+    font-size: larger;
+}
+
+.russshadow {
+    text-shadow: blue;
+}
+
+.russposition{
+    position: absolute;
+}
+
+.russdiv {
+    border: 2px solid;
+    padding: 20px; 
+    left:0%;
+    right:0%;
+    }
+
+.tableauPlaceholder {
+    width: 60% !important;
+    height:30% !important;
+}
+
+.homebg{background-image: url('../images/bluesky.webp');
+    background-position: bottom right; 
+    background-repeat: repeat; 
+}
+
+.centercolor
+{
+    background-color: beige;
+    
+}
